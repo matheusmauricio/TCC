@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.1)  2 APR 2017 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.1)  4 APR 2017 21:31
 entering extended mode
 **ifesmodelo.tex
 (ifesmodelo.tex
@@ -568,14 +568,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]) (introducao.tex
 Cap\'{\i }tulo 3.
-<imagens/fluxo_generico_ouvidoria.jpg, id=30, 1300.86pt x 1044.90375pt>
-File: imagens/fluxo_generico_ouvidoria.jpg Graphic file (type jpg)
-
-<use imagens/fluxo_generico_ouvidoria.jpg>
-Package pdftex.def Info: imagens/fluxo_generico_ouvidoria.jpg used on input lin
-e 28.
-(pdftex.def)             Requested size: 455.24411pt x 365.67397pt.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -586,7 +578,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 
-]
+] <imagens/fluxo_generico_ouvidoria.jpg, id=33, 1300.86pt x 1044.90375pt>
+File: imagens/fluxo_generico_ouvidoria.jpg Graphic file (type jpg)
+
+<use imagens/fluxo_generico_ouvidoria.jpg>
+Package pdftex.def Info: imagens/fluxo_generico_ouvidoria.jpg used on input lin
+e 27.
+(pdftex.def)             Requested size: 455.24411pt x 365.67397pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -689,19 +688,19 @@ See the caption package documentation for explanation.
 (introducao.aux) (metodologiapesquisa.aux) (revisaoliteratura.aux)
 (cronograma.aux)) ) 
 Here is how much of TeX's memory you used:
- 7899 strings out of 493698
- 115093 string characters out of 3144407
- 229874 words of memory out of 3000000
+ 7902 strings out of 493698
+ 115117 string characters out of 3144407
+ 230874 words of memory out of 3000000
  10825 multiletter control sequences out of 15000+200000
- 30709 words of font info for 153 fonts, out of 3000000 for 9000
+ 30822 words of font info for 155 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,11n,43p,961b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,43p,1608b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc
 }<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ifesmodelo.pdf (16 pages, 554679 bytes).
+Output written on ifesmodelo.pdf (16 pages, 556770 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
