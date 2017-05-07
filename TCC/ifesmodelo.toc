@@ -9,5 +9,4 @@
 \contentsline {chapter}{\numberline {5}\textbf {REVIS\~AO DE LITERATURA}}{11}
 \contentsline {section}{\numberline {5.1}Ouvidoria}{11}
 \contentsline {section}{\numberline {5.2}\textit {Crowdsourcing}}{11}
-\contentsline {chapter}{\numberline {6}\textbf {CRONOGRAMA}}{13}
-\contentsline {subsubsection}{REFER\^ENCIAS}{14}
+\contentsline {subsubsection}{REFER\^ENCIAS}{13}

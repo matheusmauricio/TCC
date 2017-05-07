@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.1)  5 APR 2017 22:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.8.1)  7 MAY 2017 18:33
 entering extended mode
 **ifesmodelo.tex
 (ifesmodelo.tex
@@ -396,8 +396,7 @@ LaTeX Warning: Unused global option(s):
 
 (ifesmodelo.aux (capa.aux) (folhaderosto.aux) (resumo.aux) (abstract.aux)
 (listafiguras.aux) (sumario.aux) (motivacao.aux) (justificativa.aux)
-(introducao.aux) (metodologiapesquisa.aux) (revisaoliteratura.aux)
-(cronograma.aux))
+(introducao.aux) (metodologiapesquisa.aux) (revisaoliteratura.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 161.
 LaTeX Font Info:    ... okay on input line 161.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 161.
@@ -412,7 +411,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 161.
 LaTeX Font Info:    ... okay on input line 161.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 161.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -504,7 +504,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
 ]) (resumo.tex
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 15.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
  [7
 
 
@@ -641,22 +641,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]) (cronograma.tex
-Cap\'{\i }tulo 6.
-<imagens/cronograma_parte_1.jpg, id=51, 452.4403pt x 170.13562pt>
-File: imagens/cronograma_parte_1.jpg Graphic file (type jpg)
-
-<use imagens/cronograma_parte_1.jpg>
-Package pdftex.def Info: imagens/cronograma_parte_1.jpg used on input line 18.
-(pdftex.def)             Requested size: 455.24411pt x 171.18918pt.
-
-<imagens/cronograma_parte_2.jpg, id=52, 408.02437pt x 197.23688pt>
-File: imagens/cronograma_parte_2.jpg Graphic file (type jpg)
-
-<use imagens/cronograma_parte_2.jpg>
-Package pdftex.def Info: imagens/cronograma_parte_2.jpg used on input line 25.
-(pdftex.def)             Requested size: 455.24411pt x 220.07312pt.
-
+[12]) (ifesmodelo.bbl) 
+AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -666,19 +652,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [13
 
 
-
- <./imagens/cronograma_parte_1.jpg> <./imagens/cronograma_parte_2.jpg>])
-(ifesmodelo.bbl) 
-AED: lastpage setting LastPage
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14
-
-
 ]
 
 Package caption Warning: Unused \captionsetup[table] on input line 155.
@@ -686,24 +659,23 @@ See the caption package documentation for explanation.
 
 (ifesmodelo.aux (capa.aux) (folhaderosto.aux) (resumo.aux) (abstract.aux)
 (listafiguras.aux) (sumario.aux) (motivacao.aux) (justificativa.aux)
-(introducao.aux) (metodologiapesquisa.aux) (revisaoliteratura.aux)
-(cronograma.aux)) ) 
+(introducao.aux) (metodologiapesquisa.aux) (revisaoliteratura.aux)) ) 
 Here is how much of TeX's memory you used:
- 7896 strings out of 493698
- 115066 string characters out of 3144407
- 229874 words of memory out of 3000000
- 10825 multiletter control sequences out of 15000+200000
- 30596 words of font info for 151 fonts, out of 3000000 for 9000
+ 7880 strings out of 493698
+ 114654 string characters out of 3144407
+ 229525 words of memory out of 3000000
+ 10816 multiletter control sequences out of 15000+200000
+ 30583 words of font info for 152 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,11n,43p,1608b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc
-}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvro8a.pfb>
-Output written on ifesmodelo.pdf (16 pages, 555806 bytes).
+ 41i,11n,43p,1603b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progra
+m Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on ifesmodelo.pdf (15 pages, 435437 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21520 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 21510 words of extra memory for PDF output out of 24883 (max. 10000000)
 
