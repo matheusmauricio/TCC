@@ -1,0 +1,105 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Brabham 2008]{brabham2008crowdsourcing}
+\abntrefinfo{Brabham}{BRABHAM}{2008}
+{BRABHAM, D.~C. Crowdsourcing as a model for problem solving an introduction
+  and cases.
+\emph{Convergence: the international journal of research into new media
+  technologies}, Sage publications, v.~14, n.~1, p. 75--90, 2008.}
+
+\bibitem[Cardoso 2010]{cardoso2010ouvidoria}
+\abntrefinfo{Cardoso}{CARDOSO}{2010}
+{CARDOSO, A. S.~R. Ouvidoria p{\'u}blica como instrumento de mudan{\c{c}}a.
+Instituto de Pesquisa Econ{\^o}mica Aplicada (Ipea), 2010.}
+
+\bibitem[Correa 2003]{correa2003probabilidade}
+\abntrefinfo{Correa}{CORREA}{2003}
+{CORREA, S. Probabilidade e estat{\'\i}stica.
+\emph{Belo Horizonte: PUC Minas Virtual}, v.~2, 2003.}
+
+\bibitem[Galoppini]{galoppiniprojeto}
+\abntrefinfo{Galoppini}{GALOPPINI}{}
+{GALOPPINI, P. C.~B. Projeto \textquotedblleft ouvidoria. com.
+  br\textquotedblright \space--crowdsourcing em favor da
+  administra{\c{c}}{\~a}o p{\'u}blica.}
+
+\bibitem[Goldstein 2014]{goldstein2014criaccao}
+\abntrefinfo{Goldstein}{GOLDSTEIN}{2014}
+{GOLDSTEIN, S.
+\emph{Cria{\c{c}}{\~a}o de plataforma de geocoding baseada em servi{\c{c}}os
+  Google Maps}.
+Tese (Doutorado), 2014.}
+
+\bibitem[Iasbeck 2012]{assis2012ouvidoria}
+\abntrefinfo{Iasbeck}{IASBECK}{2012}
+{IASBECK, L.~C. A. Ouvidoria {\'e} comunica{\c{c}}{\~a}o.
+\emph{Revista Organicom}, v.~7, n.~12, 2012.}
+
+\bibitem[Junior, Lima e Cunha 2014]{decrowdbus}
+\abntrefinfo{Junior, Lima e Cunha}{JUNIOR; LIMA; CUNHA}{2014}
+{JUNIOR, S.~R. de S.; LIMA, R. dos S.; CUNHA, R. A.~H. da. Crowdbus: Aplicativo
+  crowdsourcing para informa{\c{c}}{\~a}o, localiza{\c{c}}{\~a}o,
+  avalia{\c{c}}{\~a}o e fiscaliza{\c{c}}{\~a}o de frotas de {\^o}nibus.
+2014.}
+
+\bibitem[Lecheta 2013]{lecheta2013google}
+\abntrefinfo{Lecheta}{LECHETA}{2013}
+{LECHETA, R.~R. \emph{Google Android-3{\textordfeminine} Edi{\c{c}}{\~a}o:
+  Aprenda a criar aplica{\c{c}}{\~o}es para dispositivos m{\'o}veis com o
+  Android SDK}. [S.l.]: Novatec Editora, 2013.}
+
+\bibitem[Lyra 2004]{lyra2004ouvidor}
+\abntrefinfo{Lyra}{LYRA}{2004}
+{LYRA, R.~P. Ouvidor: o defensor dos direitos na administra{\c{c}}{\~a}o
+  p{\'u}blica brasileira.
+\emph{Rubens Pinto Lyra, organizador. Aut{\^o}nomas x obedientes: a ouvidoria
+  p{\'u}blica em debate. Jo{\~a}o Pessoa (PB): Ed. universit{\'a}ria da UFPB},
+  2004.}
+
+\bibitem[Moresi et al. 2003]{moresi2003metodologia}
+\abntrefinfo{Moresi et al.}{MORESI et al.}{2003}
+{MORESI, E. et al. Metodologia da pesquisa.
+\emph{Universidade Cat{\'o}lica de Bras{\'\i}lia}, p.~21, 2003.}
+
+\bibitem[Neto et al. 2014]{neto2014desenvolvimento}
+\abntrefinfo{Neto et al.}{NETO et al.}{2014}
+{NETO, V.~C. et al. Desenvolvimento e integra{\c{c}}{\~a}o de mapas
+  din{\^a}micos georreferenciados para o gerenciamento e vigil{\^a}ncia em
+  sa{\'u}de.
+\emph{Journal of health informatics}, v.~6, n.~1, 2014.}
+
+\bibitem[Polidori 2005]{polidori2005crescimento}
+\abntrefinfo{Polidori}{POLIDORI}{2005}
+{POLIDORI, M.~C. Crescimento urbano e ambiente: um estudo explorat{\'o}rio
+  sobre as transforma{\c{c}}{\~o}es e o futuro da cidade.
+2005.}
+
+\bibitem[Quirino et al. 2016]{quirino2016estrategias}
+\abntrefinfo{Quirino et al.}{QUIRINO et al.}{2016}
+{QUIRINO, W.~S. et al. Estrat{\'e}gias crowdsourcing para aplicativos de
+  cidades.
+2016.}
+
+\bibitem[Riche 2010]{riche2010ouvidoria}
+\abntrefinfo{Riche}{RICHE}{2010}
+{RICHE, C.~A. Ouvidoria, caminho para a civilidade e o di{\'a}logo.
+\emph{Revista Organicon}, 2010.}
+
+\bibitem[Rocha et al. 2013]{rocha2013youonalert}
+\abntrefinfo{Rocha et al.}{ROCHA et al.}{2013}
+{ROCHA, A. et al. Youonalert: Um sistema para alertar cidad{\~a}os comuns
+  acerca de problemas do cotidiano das cidades.
+\emph{Proc. of V SBCUP, Macei{\'o}-Brazil}, 2013.}
+
+\bibitem[Vieira et al. 2012]{vieira2012performance}
+\abntrefinfo{Vieira et al.}{VIEIRA et al.}{2012}
+{VIEIRA, A. et al. Performance and energy consumption analysis of embedded
+  applications based on android platform. In:  IEEE. \emph{Computing System
+  Engineering (SBESC), 2012 Brazilian Symposium on}. [S.l.], 2012. p. 59--64.}
+
+\end{thebibliography}
