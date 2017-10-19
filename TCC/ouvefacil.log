@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  10 OCT 2017 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  19 OCT 2017 17:51
 entering extended mode
 **./ouvefacil.tex
 (ouvefacil.tex
@@ -787,7 +787,28 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]) (ouvefacil.bbl
+[17] <imagens/uso_smartphones_brasil.png, id=75, 347.79938pt x 249.93375pt>
+File: imagens/uso_smartphones_brasil.png Graphic file (type png)
+
+<use imagens/uso_smartphones_brasil.png>
+Package pdftex.def Info: imagens/uso_smartphones_brasil.png used on input line 
+65.
+(pdftex.def)             Requested size: 455.24411pt x 327.1601pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18 <./imagens/uso_smartphones_brasil.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]) (ouvefacil.bbl
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 54.
 ) 
@@ -798,7 +819,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18
+[20
 
 
 ]
@@ -810,11 +831,11 @@ See the caption package documentation for explanation.
 (listafiguras.aux) (sumario.aux) (motivacao.aux) (introducao.aux)
 (metodologiapesquisa.aux) (revisaoliteratura.aux)) ) 
 Here is how much of TeX's memory you used:
- 8477 strings out of 493323
- 125665 string characters out of 3139060
+ 8480 strings out of 493323
+ 125825 string characters out of 3139060
  244513 words of memory out of 3000000
- 11579 multiletter control sequences out of 15000+200000
- 33651 words of font info for 167 fonts, out of 3000000 for 9000
+ 11583 multiletter control sequences out of 15000+200000
+ 33475 words of font info for 166 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,43p,1580b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.
@@ -823,9 +844,9 @@ msfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helveti
 c/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ouvefacil.pdf (20 pages, 8566918 bytes).
+Output written on ouvefacil.pdf (22 pages, 8652813 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22047 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 22052 words of extra memory for PDF output out of 24883 (max. 10000000)
 
