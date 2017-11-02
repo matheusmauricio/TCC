@@ -15,13 +15,13 @@
 \usepackage{tocloft}
 \usepackage{multirow}
 \usepackage{fancyhdr}
-
+\usepackage{float}
 % Todo este bloco de código (até a linha 15) é para colocar a numeração de página na parte superior da folha no lado direito.
 \usepackage{fancyhdr}
 
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{booktabs}
-
+\usepackage[pdftex]{hyperref} %pacote pra criar citações linkáveis com a referência
 
 \pagestyle{fancy}
 
@@ -158,7 +158,14 @@
 
 \renewcommand{\arraystretch}{2} %Define a altura da linha nas tabelas
 
-
+\hypersetup{
+	colorlinks=true,       		% false: boxed links; true: colored links
+	linkcolor=black,          	% color of internal links
+	citecolor=black,        		% color of links to bibliography
+	filecolor=black,      		% color of file links
+	urlcolor=black,
+	bookmarksdepth=4
+}
 
 \begin{document}
 \include{capa} % Inserir arquivo da capa
@@ -174,6 +181,10 @@
 %\include{listaabreviacao}
 \include{listafiguras} 
 \include{sumario} % Inserir arquivo do sumário
+
+\setlength{\parskip}{1,5 em} % Espaçamento de 1,5 em cada parágrafo
+\setstretch{1.5} % Espaçamento de 1,5 entre linhas
+
 \include{motivacao} 
 %\include{justificativa} % Inserir arquivo do capítulo 1. Se precisar colocar mais capítulos, é só colocar novos \include com o nome do arquivo do capitulo entre as chaves.
 \include{introducao} % Inserir arquivo do capítulo 3. Se precisar colocar mais capítulos, é só colocar novos \include com o nome do arquivo do capitulo entre as chaves.
@@ -185,7 +196,7 @@
 \renewcommand{\bibname}{\hfil\normalfont\normalsize\bfseries\MakeUppercase\bf\normalsize REFERÊNCIAS} % Fazer o título REFERÊNCIAS ficar em MAIÚSCULO, centralizado, negrito e tamanho 12.
 %\bibliographystyle{unsrt} % A ordem das citações é de acordo com o aparecimento no texto.
 %\fancyhf{} % Retira o número de página nas referências
-\setcounter{page}{20} % Define qual é o número da página das REFERÊNCIAS. ESTE CAMPO DEVE SER MODIFICADO O SEU NÚMERO NO FINAL DO TRABALHO.
+\setcounter{page}{22} % Define qual é o número da página das REFERÊNCIAS. ESTE CAMPO DEVE SER MODIFICADO O SEU NÚMERO NO FINAL DO TRABALHO.
 \bibliography{bibliografias}
 \addcontentsline{toc}{subsubsection}{REFERÊNCIAS} % Colocar o título REFERÊNCIAS no SUMÁRIO
 \end{document}

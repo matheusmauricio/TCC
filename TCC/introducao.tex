@@ -9,7 +9,7 @@
 \setcounter{page}{6} % Define qual é o número da primeira página do capítulo
 
 \chapter{\textbf{INTRODUÇÃO}} % Este comando é utilizado para criar capítulos
-\onehalfspacing % Espaçamento de 1,5
+%\onehalfspacing % Espaçamento de 1,5
 
 \vspace{0.5cm} % Aqui é configurado os 2 espaços de 1,5
 
@@ -20,9 +20,7 @@ Resolver esses problemas é obrigação da prefeitura de cada município, e o setor 
 
 Uma ouvidoria pública funciona de uma forma simples. O cidadão que está necessitando da reparação de algum problema que esteja o afetando, ou que queira fazer algum outro tipo de reclamação, denúncia ou elogio, entra em contato com a ouvidoria pública a partir dos canais de comunicação disponíveis: através do site, telefone para contato, envia um e-mail, escreve uma mensagem para o perfil da ouvidoria em alguma rede social, caso exista algum perfil oficial, ou até mesmo pode ir na sede da ouvidoria e relatar o ocorrido pessoalmente. Após receber a demanda, o ouvidor analisa as informações recebidas através de todos os canais de comunicação, e as filtra a fim de organização e obtenção de estatísticas. Após esse contato com o cidadão, o ouvidor toma as devidas providências para realização da análise da demanda. Quando uma reposta estiver disponível para ser passada ao cidadão, como por exemplo que a equipe designada para resolução de um problema de infraestrutura estará indo ao local indicado resolvê-lo, o ouvidor notifica o autor da demanda e o mantém informado a respeito do mesmo. Após ser finalizada, as informações a respeito daquela demanda são armazenadas em uma base de dados, onde será possível obter estatísticas a respeito de todas as demandas recebidas pela ouvidoria. A Figura 1, a seguir, mostra o fluxo genérico do funcionamento de uma ouvidoria pública.
 
-\vspace{5cm}
-
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Fluxo genérico do funcionamento de uma ouvidoria}
 	\includegraphics[width=1.0\linewidth]{imagens/fluxo_generico_ouvidoria.jpg}
@@ -57,7 +55,7 @@ O Ouve Fácil é um aplicativo para Android que será capaz de realizar e registrar
 
 Para poder utilizar o aplicativo, o cidadão deverá realizar um cadastro, que conterá informações pessoais, para que este possa ser identificado e notificado a respeito de alguma demanda que esteja acompanhando. Através de um mapa personalizado com a API do Google Maps, será possível visualizar o mapa da cidade, o qual conterá as demandas criadas pelos usuários. As demandas serão identificadas a partir de marcadores de mapa, nativos da API do Google Maps. Elas se diferenciarão através de cores: a cor vermelha significa que a demanda ainda não foi concluída, a amarela significa que a demanda está em estado de análise, a azul simboliza que foi concluída por negação popular, a marcação laranja representa que a demanda está em fase de correção, e a cor verde significa que a demanda foi concluída. É possível observar alguns exemplos na figura 2 a seguir. 
 
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Exemplo de cores de identificação das demandas}
 	\includegraphics[width=0.6\linewidth]{imagens/exemplo_cores.png}
@@ -66,7 +64,7 @@ Para poder utilizar o aplicativo, o cidadão deverá realizar um cadastro, que con
 
 Somente serão exibidas as demandas que tiveram origem a partir do uso do aplicativo. Esse mapa pode ser personalizado pelo usuário, de modo que este terá a possibilidade de escolher o estilo de visualização. Existem três estilos disponíveis: normal, satélite e híbrido, conforme é possível visualizar nas figuras 3, 4 e 5 a seguir.
 
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Estilo de visualização do mapa - Normal}
 	\includegraphics[width=0.6\linewidth]{imagens/mapa_normal.png}
@@ -75,7 +73,7 @@ Somente serão exibidas as demandas que tiveram origem a partir do uso do aplicat
 
 \vspace{6cm} %Fiz isso pras imagens ficarem em sequência
 
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Estilo de visualização do mapa - Satélite}
 	\includegraphics[width=0.6\linewidth]{imagens/mapa_satelite.png}
@@ -84,7 +82,7 @@ Somente serão exibidas as demandas que tiveram origem a partir do uso do aplicat
 
 \vspace{10cm} %Fiz isso pras imagens ficarem em sequência
 
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Estilo de visualização do mapa - Híbrido}
 	\includegraphics[width=0.6\linewidth]{imagens/mapa_hibrido.png}
@@ -93,9 +91,9 @@ Somente serão exibidas as demandas que tiveram origem a partir do uso do aplicat
 
 Outra funcionalidade do aplicativo é a criação de demandas. Quando um usuário sentir necessidade de solicitar algum tipo de serviço à prefeitura, como por exemplo a reparação de um buraco no asfalto, ele deverá realizar uma fotografia do problema em questão e preencher algumas informações: a categoria do problema, uma breve descrição, e caso sinta necessidade, pode solicitar que sua demanda seja criada de forma anônima. Após a demanda ser criada, ela será inserida no mapa, e será exibida no local em que a fotografia foi realizada. A figura 6 ilustra a criação de uma demanda.
 
-\vspace{5cm} %Fiz isso pras imagens ficarem em sequência
+%\vspace{5cm} %Fiz isso pras imagens ficarem em sequência
 
-\begin{figure}[!h]
+\begin{figure}[H]
 	\centering
 	\caption{Tela de criação de demanda}
 	\includegraphics[width=0.6\linewidth]{imagens/exemplo_criacao.png}
