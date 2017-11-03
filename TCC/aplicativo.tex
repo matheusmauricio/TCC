@@ -1,0 +1,66 @@
+
+\begin{titlepage}
+	
+	
+\setcounter{page}{22} % Define qual é o número da primeira página do capítulo
+
+\chapter{\textbf{O APLICATIVO}} % Este comando é utilizado para criar capítulos
+%\onehalfspacing % Espaçamento de 1,5
+
+\vspace{0.5cm} % Aqui é configurado os 2 espaços de 1,5
+
+Segundo \citeonline{polidori2005crescimento}, devido ao crescimento urbano ocorrem modificações na cidade de aspecto à paisagem, à morfologia urbana e da ecologia da paisagem. Devido a essas modificações, começam a surgir alguns problemas de serviços urbanos que antes não eram tão frequentes. Por causa desse aumento na quantidade de problemas, surge a necessidade de aprimoramento da relação da prefeitura municipal com os cidadãos. 
+
+O Ouve Fácil tem dois níveis de acesso: usuário e ouvidor. 
+
+\section{Nível de usuário}
+
+O nível de usuário se dá pelo uso do aplicativo para Android que será capaz de realizar e registrar fotografias, capturar a posição geográfica do \textit{smartphone} no momento da foto (através do \textit{GPS}\footnote[5]{GPS - Global Positioning System, traduzido para o português como Sistema de Posicionamento Global é um sistema de posicionamento por satélite que fornece a um aparelho receptor móvel sua posição e informação horária sob quaisquer condições atmosféricas}) e juntamente com uma breve descrição e categorização do problema, marcá-lo em um mapa da cidade, o qual deve conter todas as marcações que os outros usuários realizaram.
+
+Para poder utilizar o aplicativo, o cidadão deverá realizar um cadastro, que conterá informações pessoais, para que este possa ser identificado e notificado a respeito de alguma demanda que esteja acompanhando. Através de um mapa personalizado com a API do Google Maps, será possível visualizar o mapa da cidade, o qual conterá as demandas criadas pelos usuários. As demandas serão identificadas a partir de marcadores de mapa, nativos da API do Google Maps. Elas se diferenciarão através de cores: 
+\begin{itemize}
+	\item Vermelho: significa que a demanda ainda não foi concluída;
+	\item Amarelo: significa que a demanda está em estado de análise;
+	\item Azul: simboliza que foi concluída por negação popular\footnote[6]{Uma demanda concluída por negação popular significa que de acordo com a população, aquela demanda é falsa ou inexistente};
+	\item Laranja: representa que a demanda está em fase de correção;
+	\item Verde: significa que a demanda foi concluída.
+\end{itemize}
+É possível observar alguns exemplos na figura 3. 
+
+\begin{figure}[H]
+	\centering
+	\caption{Exemplo de cores de identificação das demandas}
+	\includegraphics[width=0.6\linewidth]{imagens/exemplo_cores.png}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+Somente serão exibidas as demandas que tiveram origem a partir do uso do aplicativo. Esse mapa pode ser personalizado pelo usuário, de modo que este terá a possibilidade de escolher o estilo de visualização. Existem três estilos disponíveis: normal (a), satélite (b) e híbrido (c), conforme é possível visualizar na figura 4.
+
+\begin{figure}[H]
+	\centering
+	\caption{Estilos de visualização do mapa }
+	\includegraphics[width=0.6\linewidth]{imagens/tipos_mapa.jpeg}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+
+Outra funcionalidade do aplicativo é a criação de demandas. Quando um usuário sentir necessidade de solicitar algum tipo de serviço à prefeitura, como por exemplo a reparação de um buraco no asfalto, ele deverá realizar uma fotografia do problema em questão e preencher algumas informações: a categoria do problema, uma breve descrição, e caso sinta necessidade, pode solicitar que sua demanda seja criada de forma anônima. Após a demanda ser criada, ela passará pela aprovação de um ouvidor, a fim de evitar trotes, e após essa aprovação, será inserida no mapa e exibida no local em que a fotografia foi realizada. A figura 5 ilustra a criação de uma demanda.
+
+%\vspace{5cm} %Fiz isso pras imagens ficarem em sequência
+
+\begin{figure}[H]
+	\centering
+	\caption{Tela de criação de demanda}
+	\includegraphics[width=0.6\linewidth]{imagens/exemplo_criacao.png}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+A partir do uso do aplicativo, espera-se que o período de identificação e correção do problema seja reduzido, gerando como consequência uma melhor qualidade de vida aos cidadãos, devido ao menor tempo de exposição dos munícipes ao problema. Para resolver esses problemas, a prefeitura arca com gastos de tempo e dinheiro. Esses gastos poderiam ser minimizados se os cidadãos pudessem identificar antecipadamente, e com o auxílio de sistemas informatizados, a existência de problemas em seus arredores. \cite{rocha2013youonalert}
+
+\section{Nível de ouvidor}
+
+O segundo nível de acesso do Ouve Fácil, o nível de ouvidor, é acessado através de qualquer navegador web, pois foi desenvolvido para ser utilizado pelos ouvidores em seus escritórios. Nesse nível de acesso, o ouvidor é capaz de aprovar ou reprovar as demandas criadas pelos usuários através do aplicativo. Caso a demanda seja aprovada, o ouvidor designará um administrador, e poderá redigir um comentário, caso sinta necessidade, a respeito daquela demanda. Sempre que houver qualquer novidade, o administrador responsável poderá fazer algum comentário explicando a situação em que a demanda se encontra. Esses comentários ficam disponíveis para todos os usuários sempre que eles visualizarem a demanda no aplicativo. Caso seja alguma imagem falsa, de conteúdo ilegal ou irreconhecível, a demanda será reprovada, e ficará indisponível para visualização no aplicativo.
+
+
+
+\end{titlepage}

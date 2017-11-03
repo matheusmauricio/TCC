@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  31 OCT 2017 01:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  3 NOV 2017 03:40
 entering extended mode
 **./ouvefacil.tex
 (ouvefacil.tex
@@ -512,9 +512,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 168.
 LaTeX Warning: Unused global option(s):
     [xcolor=table].
 
-(ouvefacil.aux (capa.aux) (folhaderosto.aux) (resumo.aux) (abstract.aux)
-(listafiguras.aux) (sumario.aux) (motivacao.aux) (introducao.aux)
-(metodologiapesquisa.aux) (revisaoliteratura.aux))
+(ouvefacil.aux (capa.aux) (folhaderosto.aux) (folhaAprovacao.aux)
+(declaracaoautor.aux) (dedicatoria.aux) (epigrafe.aux) (resumo.aux)
+(abstract.aux) (listafiguras.aux) (sumario.aux) (introducao.aux) (objetivos.aux
+) (revisaoliteratura.aux) (metodologiapesquisa.aux) (aplicativo.aux)
+(consideracoesfinais.aux) (apendices.aux))
 \openout1 = `ouvefacil.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
@@ -662,34 +664,14 @@ l.36 \end{titlepage}
 
 
 ])
-\openout2 = `resumo.aux'.
+\openout2 = `folhaAprovacao.aux'.
 
- (resumo.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
- [7
-
-
-])
-\openout2 = `abstract.aux'.
-
- (abstract.texpdfTeX warning (ext4): destination with the same identifier (name
-{page.7}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.26 \end{titlepage}
-                     [7
-
-
-])
-\openout2 = `listafiguras.aux'.
-
- (listafiguras.tex (ouvefacil.lof
+ (folhaAprovacao.tex
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -697,14 +679,73 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 \end{titlepage}
+                     [1
+
+
+])
+\openout2 = `declaracaoautor.aux'.
+
+ (declaracaoautor.texpdfTeX warning (ext4): destination with the same identifie
+r (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \end{titlepage}
+                     [1
+
+
+])
+\openout2 = `dedicatoria.aux'.
+
+ (dedicatoria.texpdfTeX warning (ext4): destination with the same identifier (n
+ame{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 \end{titlepage}
+                     [1
+
+
+])
+\openout2 = `epigrafe.aux'.
+
+ (epigrafe.texpdfTeX warning (ext4): destination with the same identifier (name
+{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17 \end{titlepage}
+                     [1
+
+
+])
+\openout2 = `resumo.aux'.
+
+ (resumo.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
+ [6
+
+
+])
+\openout2 = `abstract.aux'.
+
+ (abstract.tex [7
+
+
+])
+\openout2 = `listafiguras.aux'.
+
+ (listafiguras.tex (ouvefacil.lof)
 \tf@lof=\write4
 \openout4 = `ouvefacil.lof'.
 
@@ -732,26 +773,11 @@ l.6 \end{titlepage}
 
 
 ])
-\openout2 = `motivacao.aux'.
-
- (motivacao.tex
-Cap\'{\i }tulo 1.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[5
-
-
-
-])
 \openout2 = `introducao.aux'.
 
  (introducao.tex
-Cap\'{\i }tulo 2.
-<imagens/fluxo_generico_ouvidoria.jpg, id=113, 1300.86pt x 1044.90375pt>
+Cap\'{\i }tulo 1.
+<imagens/fluxo_generico_ouvidoria.jpg, id=133, 1300.86pt x 1044.90375pt>
 File: imagens/fluxo_generico_ouvidoria.jpg Graphic file (type jpg)
 
 <use imagens/fluxo_generico_ouvidoria.jpg>
@@ -765,7 +791,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6
+[10
 
 
 
@@ -776,120 +802,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 
-      [7 <./imagens/fluxo_generico_ouvidoria.jpg>]
+[11 <./imagens/fluxo_generico_ouvidoria.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8] <imagens/exemplo_cores.png, id=138, 1084.05pt x 1858.945pt>
-File: imagens/exemplo_cores.png Graphic file (type png)
+[12])
+\openout2 = `objetivos.aux'.
 
-<use imagens/exemplo_cores.png>
-Package pdftex.def Info: imagens/exemplo_cores.png used on input line 61.
-(pdftex.def)             Requested size: 273.14923pt x 468.39423pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[9] <imagens/mapa_normal.png, id=145, 1084.05pt x 1854.93pt>
-File: imagens/mapa_normal.png Graphic file (type png)
-
-<use imagens/mapa_normal.png>
-Package pdftex.def Info: imagens/mapa_normal.png used on input line 70.
-(pdftex.def)             Requested size: 273.14923pt x 467.38257pt.
-
+ (objetivos.tex
+Cap\'{\i }tulo 2.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 14.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <./imagens/exemplo_cores.png>]
-<imagens/mapa_satelite.png, id=150, 1084.05pt x 1854.93pt>
-File: imagens/mapa_satelite.png Graphic file (type png)
-
-<use imagens/mapa_satelite.png>
-Package pdftex.def Info: imagens/mapa_satelite.png used on input line 79.
-(pdftex.def)             Requested size: 273.14923pt x 467.38257pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[11 <./imagens/mapa_normal.png>]
-<imagens/mapa_hibrido.png, id=156, 1084.05pt x 1858.945pt>
-File: imagens/mapa_hibrido.png Graphic file (type png)
-
-<use imagens/mapa_hibrido.png>
-Package pdftex.def Info: imagens/mapa_hibrido.png used on input line 88.
-(pdftex.def)             Requested size: 273.14923pt x 468.39423pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[12 <./imagens/mapa_satelite.png>]
-<imagens/exemplo_criacao.png, id=161, 815.29594pt x 1394.20876pt>
-File: imagens/exemplo_criacao.png Graphic file (type png)
-
-<use imagens/exemplo_criacao.png>
-Package pdftex.def Info: imagens/exemplo_criacao.png used on input line 99.
-(pdftex.def)             Requested size: 273.14923pt x 467.08942pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[13 <./imagens/mapa_hibrido.png>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[14 <./imagens/exemplo_criacao.png>])
-\openout2 = `metodologiapesquisa.aux'.
-
- (metodologiapesquisa.tex
-Cap\'{\i }tulo 3.
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[15
+[13
 
 
 
-]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16])
+])
 \openout2 = `revisaoliteratura.aux'.
 
  (revisaoliteratura.tex
-Cap\'{\i }tulo 4.
+Cap\'{\i }tulo 3.
 
 Overfull \hbox (0.79027pt too wide) in paragraph at lines 22--23
 []\OT1/phv/m/n/12 (-20) Segundo [][]Lyra[][] ([][]2004[][]) tamb[]em surge a \n
@@ -902,7 +843,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17
+[14
 
 
 
@@ -918,19 +859,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18]
+[15]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] <imagens/uso_smartphones_brasil.png, id=249, 347.79938pt x 249.93375pt>
+[16] <imagens/uso_smartphones_brasil.png, id=229, 347.79938pt x 249.93375pt>
 File: imagens/uso_smartphones_brasil.png Graphic file (type png)
 
 <use imagens/uso_smartphones_brasil.png>
 Package pdftex.def Info: imagens/uso_smartphones_brasil.png used on input line 
-65.
+69.
 (pdftex.def)             Requested size: 455.24411pt x 327.1601pt.
 
 
@@ -939,23 +880,54 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <./imagens/uso_smartphones_brasil.png>]
+[17]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21]) (ouvefacil.bbl
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 55.
+[18 <./imagens/uso_smartphones_brasil.png>])
+\openout2 = `metodologiapesquisa.aux'.
+
+ (metodologiapesquisa.tex
+Cap\'{\i }tulo 4.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 57.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
 )
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 201.
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-AED: lastpage setting LastPage
+[20]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21])
+\openout2 = `aplicativo.aux'.
+
+ (aplicativo.tex
+Cap\'{\i }tulo 5.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -965,43 +937,163 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [22
 
 
-]
+
+] <imagens/exemplo_cores.png, id=273, 1084.05pt x 1858.945pt>
+File: imagens/exemplo_cores.png Graphic file (type png)
+
+<use imagens/exemplo_cores.png>
+Package pdftex.def Info: imagens/exemplo_cores.png used on input line 33.
+(pdftex.def)             Requested size: 273.14923pt x 468.39423pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23]
+[23] <imagens/tipos_mapa.jpeg, id=279, 963.6pt x 861.2175pt>
+File: imagens/tipos_mapa.jpeg Graphic file (type jpg)
+
+<use imagens/tipos_mapa.jpeg>
+Package pdftex.def Info: imagens/tipos_mapa.jpeg used on input line 42.
+(pdftex.def)             Requested size: 273.14923pt x 244.12228pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./imagens/exemplo_cores.png>]
+<imagens/exemplo_criacao.png, id=285, 815.29594pt x 1394.20876pt>
+File: imagens/exemplo_criacao.png Graphic file (type png)
+
+<use imagens/exemplo_criacao.png>
+Package pdftex.def Info: imagens/exemplo_criacao.png used on input line 54.
+(pdftex.def)             Requested size: 273.14923pt x 467.08942pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./imagens/tipos_mapa.jpeg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26 <./imagens/exemplo_criacao.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27])
+\openout2 = `consideracoesfinais.aux'.
+
+ (consideracoesfinais.tex
+Cap\'{\i }tulo 6.
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28
+
+
+
+]) (ouvefacil.bbl
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 55.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29
+
+
+])
+
+Package hyperref Warning: Difference (3) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 206.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30]
+\openout2 = `apendices.aux'.
+
+ (apendices.tex
+Cap\'{\i }tulo 7.
+<imagens/print_questionario.png, id=316, 441.90094pt x 673.76718pt>
+File: imagens/print_questionario.png Graphic file (type png)
+
+<use imagens/print_questionario.png>
+Package pdftex.def Info: imagens/print_questionario.png used on input line 6.
+(pdftex.def)             Requested size: 353.52122pt x 539.01448pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31
+
+
+ <./imagens/print_questionario.png>] 
+AED: lastpage setting LastPage
 
 Package caption Warning: Unused \captionsetup[table] on input line 157.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
-(ouvefacil.aux (capa.aux) (folhaderosto.aux) (resumo.aux) (abstract.aux)
-(listafiguras.aux) (sumario.aux) (motivacao.aux) (introducao.aux)
-(metodologiapesquisa.aux) (revisaoliteratura.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
+(ouvefacil.aux (capa.aux) (folhaderosto.aux) (folhaAprovacao.aux)
+(declaracaoautor.aux) (dedicatoria.aux) (epigrafe.aux) (resumo.aux)
+(abstract.aux) (listafiguras.aux) (sumario.aux) (introducao.aux) (objetivos.aux
+) (revisaoliteratura.aux) (metodologiapesquisa.aux) (aplicativo.aux)
+(consideracoesfinais.aux) (apendices.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 Package rerunfilecheck Info: File `ouvefacil.out' has not changed.
-(rerunfilecheck)             Checksum: 0422D9D5F4C365A932A64F37C2F83500;761.
+(rerunfilecheck)             Checksum: 4AF85905B77DB9AEC61ADE2419521ADB;939.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 11898 strings out of 493323
- 178300 string characters out of 3139060
- 324713 words of memory out of 3000000
- 14919 multiletter control sequences out of 15000+200000
- 33475 words of font info for 166 fonts, out of 3000000 for 9000
+ 12038 strings out of 493323
+ 180123 string characters out of 3139060
+ 327121 words of memory out of 3000000
+ 14949 multiletter control sequences out of 15000+200000
+ 38342 words of font info for 195 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,1580b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+ 41i,12n,43p,1569b,573s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1010,13 +1102,14 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helveti
-c/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ouvefacil.pdf (25 pages, 8680021 bytes).
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
+lvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on ouvefacil.pdf (32 pages, 2526814 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 22156 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 361 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 26271 words of extra memory for PDF output out of 29859 (max. 10000000)
 
