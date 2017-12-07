@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  3 NOV 2017 03:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.26)  7 DEC 2017 19:28
 entering extended mode
 **./ouvefacil.tex
 (ouvefacil.tex
@@ -314,27 +314,68 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip92
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty"
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip93
+\afterepigraphskip=\skip94
+\epigraphwidth=\skip95
+\epigraphrule=\skip96
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
-Package Fancyhdr Warning: \fancyheadoffset's `E' option without twoside option 
-is useless on input line 30.
-
-\mylen=\skip93
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box28
-\beforetitleunit=\skip94
-\aftertitleunit=\skip95
-\ttl@plus=\dimen124
-\ttl@minus=\dimen125
-\ttl@toksa=\toks20
-\titlewidth=\dimen126
-\titlewidthlast=\dimen127
-\titlewidthfirst=\dimen128
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count110
+\calc@Bcount=\count111
+\calc@Adimen=\dimen124
+\calc@Bdimen=\dimen125
+\calc@Askip=\skip97
+\calc@Bskip=\skip98
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count112
+\calc@Cskip=\skip99
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen129
-\Gin@req@width=\dimen130
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+\AM@pagewidth=\dimen128
+\AM@pageheight=\dimen129
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count113
+\AM@templatesizebox=\box29
+)
+
+Package Fancyhdr Warning: \fancyheadoffset's `E' option without twoside option 
+is useless on input line 32.
+
+\mylen=\skip100
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip101
+\aftertitleunit=\skip102
+\ttl@plus=\dimen130
+\ttl@minus=\dimen131
+\ttl@toksa=\toks22
+\titlewidth=\dimen132
+\titlewidthlast=\dimen133
+\titlewidthfirst=\dimen134
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2017/05/19 3.10 The Babel package
@@ -351,16 +392,16 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2017/05/19 3.10 Babel common definitions
-\babel@savecnt=\count110
-\U@D=\dimen131
+\babel@savecnt=\count114
+\U@D=\dimen135
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latin1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
@@ -371,42 +412,26 @@ Package: chngcntr 2009/09/02 v1.0a change counter resetting
 (C:\Users\Matheus\AppData\Roaming\MiKTeX\2.9\tex\latex\abntex2\abntex2cite.sty
 Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count111
-\calc@Bcount=\count112
-\calc@Adimen=\dimen132
-\calc@Bdimen=\dimen133
-\calc@Askip=\skip96
-\calc@Bskip=\skip97
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count113
-\calc@Cskip=\skip98
-)
 (C:\Users\Matheus\AppData\Roaming\MiKTeX\2.9\tex\latex\abntex2\abntex2abrev.sty
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-\minimumbiblabelwidth=\skip99
-\ABCIauxlen=\skip100
-\c@ABCIaux=\count114
-\c@ABCImax=\count115
+\minimumbiblabelwidth=\skip103
+\ABCIauxlen=\skip104
+\c@ABCIaux=\count115
+\c@ABCImax=\count116
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
 Package: relsize 2003/07/04 ver 3.1
 )
-\biblabelsep=\skip101
+\biblabelsep=\skip105
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
-\ABCItoken=\toks23
+\ABCItoken=\toks25
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/11/05 v2.16a AMS math features
-\@mathmargin=\skip102
+\@mathmargin=\skip106
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -414,51 +439,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks24
-\ex@=\dimen134
+\@emptytoks=\toks26
+\ex@=\dimen136
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen135
+\pmbraise@=\dimen137
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count116
+\inf@bad=\count117
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count117
-\leftroot@=\count118
+\uproot@=\count118
+\leftroot@=\count119
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count119
-\DOTSCASE@=\count120
+\classnum@=\count120
+\DOTSCASE@=\count121
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box29
-\strutbox@=\box30
-\big@size=\dimen136
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen138
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count121
-\c@MaxMatrixCols=\count122
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
 \dotsspace@=\muskip11
-\c@parentequation=\count123
-\dspbrk@lvl=\count124
-\tag@help=\toks25
-\row@=\count125
-\column@=\count126
-\maxfields@=\count127
-\andhelp@=\toks26
-\eqnshift@=\dimen137
-\alignsep@=\dimen138
-\tagshift@=\dimen139
-\tagwidth@=\dimen140
-\totwidth@=\dimen141
-\lineht@=\dimen142
-\@envbody=\toks27
-\multlinegap=\skip103
-\multlinetaggap=\skip104
-\mathdisplay@stack=\toks28
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
+\tag@help=\toks27
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
+\andhelp@=\toks28
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks29
+\multlinegap=\skip107
+\multlinetaggap=\skip108
+\mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -474,18 +499,18 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count128
-\Gm@cntv=\count129
-\c@Gm@tempcnt=\count130
-\Gm@bindingoffset=\dimen143
-\Gm@wd@mp=\dimen144
-\Gm@odd@mp=\dimen145
-\Gm@even@mp=\dimen146
-\Gm@layoutwidth=\dimen147
-\Gm@layoutheight=\dimen148
-\Gm@layouthoffset=\dimen149
-\Gm@layoutvoffset=\dimen150
-\Gm@dimlist=\toks29
+\Gm@cnth=\count129
+\Gm@cntv=\count130
+\c@Gm@tempcnt=\count131
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks31
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
@@ -494,64 +519,63 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen151
-\captionmargin@=\dimen152
-\captionwidth=\dimen153
-\caption@tempdima=\dimen154
-\caption@indent=\dimen155
-\caption@parindent=\dimen156
-\caption@hangindent=\dimen157
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
 )
-\c@ContinuedFloat=\count131
+\c@ContinuedFloat=\count132
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 168.
+Package hyperref Info: Option `colorlinks' set `true' on input line 170.
 
 
 LaTeX Warning: Unused global option(s):
     [xcolor=table].
 
-(ouvefacil.aux (capa.aux) (folhaderosto.aux) (folhaAprovacao.aux)
-(declaracaoautor.aux) (dedicatoria.aux) (epigrafe.aux) (resumo.aux)
-(abstract.aux) (listafiguras.aux) (sumario.aux) (introducao.aux) (objetivos.aux
-) (revisaoliteratura.aux) (metodologiapesquisa.aux) (aplicativo.aux)
-(consideracoesfinais.aux) (apendices.aux))
+(ouvefacil.aux (capa.aux) (folhaderosto.aux) (declaracaoautor.aux)
+(dedicatoria.aux) (epigrafe.aux) (resumo.aux) (abstract.aux) (listafiguras.aux)
+(sumario.aux) (introducao.aux) (objetivos.aux) (revisaoliteratura.aux)
+(metodologiapesquisa.aux) (aplicativo.aux) (consideracoesfinais.aux)
+(apendices.aux))
 \openout1 = `ouvefacil.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 172.
 
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count132
-\scratchdimen=\dimen158
-\scratchbox=\box31
-\nofMPsegments=\count133
-\nofMParguments=\count134
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count135
-\MPscratchDim=\dimen159
-\MPnumerator=\count136
-\makeMPintoPDFobject=\count137
-\everyMPtoPDFconversion=\toks31
+\scratchcounter=\count133
+\scratchdimen=\dimen160
+\scratchbox=\box33
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen161
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks33
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -565,7 +589,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 170.
+LaTeX Info: Redefining \microtypecontext on input line 172.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -581,9 +605,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 170.
-\AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring ON on input line 170.
+(lastpage)             ! on input line 172.
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring ON on input line 172.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -591,17 +615,21 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count138
+\c@section@level=\count139
 )
-LaTeX Info: Redefining \ref on input line 170.
-LaTeX Info: Redefining \pageref on input line 170.
-LaTeX Info: Redefining \nameref on input line 170.
+LaTeX Info: Redefining \ref on input line 172.
+LaTeX Info: Redefining \pageref on input line 172.
+LaTeX Info: Redefining \nameref on input line 172.
 
 (ouvefacil.out) (ouvefacil.out)
 \@outlinefile=\write3
 \openout3 = `ouvefacil.out'.
 
 
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -664,14 +692,86 @@ l.36 \end{titlepage}
 
 
 ])
-\openout2 = `folhaAprovacao.aux'.
 
- (folhaAprovacao.tex
+pdfTeX warning: pdflatex.exe (file ./folhadeaprovacao.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<folhadeaprovacao.pdf, id=81, 598.235pt x 845.1575pt>
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+
+<use folhadeaprovacao.pdf>
+Package pdftex.def Info: folhadeaprovacao.pdf used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./folhadeaprovacao.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+<use folhadeaprovacao.pdf>
+Package pdftex.def Info: folhadeaprovacao.pdf used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./folhadeaprovacao.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./folhadeaprovacao.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<folhadeaprovacao.pdf, id=84, page=1, 598.235pt x 845.1575pt>
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+
+<use folhadeaprovacao.pdf, page 1>
+Package pdftex.def Info: folhadeaprovacao.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+ <use folhadeaprovacao.pdf, page 1>
+Package pdftex.def Info: folhadeaprovacao.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+
+<use folhadeaprovacao.pdf, page 1>
+Package pdftex.def Info: folhadeaprovacao.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+ <use folhadeaprovacao.pdf, page 1>
+Package pdftex.def Info: folhadeaprovacao.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.176 \includepdf[pages=1]{folhadeaprovacao.pdf}
+                                                
+File: folhadeaprovacao.pdf Graphic file (type pdf)
+
+<use folhadeaprovacao.pdf, page 1>
+Package pdftex.def Info: folhadeaprovacao.pdf, page1 used on input line 176.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+ [1
+
+ <./folhadeaprovacao.pdf>]
+\openout2 = `declaracaoautor.aux'.
+
+
+(declaracaoautor.texpdfTeX warning (ext4): destination with the same identifier
+ (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \end{titlepage}
+                     [1
+
+])
+\openout2 = `dedicatoria.aux'.
+
+ (dedicatoria.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 18.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 11.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -679,7 +779,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 11.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -690,50 +790,30 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 \end{titlepage}
-                     [1
-
-
-])
-\openout2 = `declaracaoautor.aux'.
-
- (declaracaoautor.texpdfTeX warning (ext4): destination with the same identifie
-r (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.25 \end{titlepage}
-                     [1
-
-
-])
-\openout2 = `dedicatoria.aux'.
-
- (dedicatoria.texpdfTeX warning (ext4): destination with the same identifier (n
-ame{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.19 \end{titlepage}
+l.27 \end{titlepage}
                      [1
 
 
 ])
 \openout2 = `epigrafe.aux'.
 
- (epigrafe.texpdfTeX warning (ext4): destination with the same identifier (name
-{page.1}) has been already used, duplicate ignored
+ (epigrafe.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 \end{titlepage}
+l.26 \end{titlepage}
                      [1
 
 
 ])
 \openout2 = `resumo.aux'.
 
- (resumo.tex
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
- [6
+ (resumo.tex [6
 
 
 ])
@@ -777,7 +857,7 @@ l.6 \end{titlepage}
 
  (introducao.tex
 Cap\'{\i }tulo 1.
-<imagens/fluxo_generico_ouvidoria.jpg, id=133, 1300.86pt x 1044.90375pt>
+<imagens/fluxo_generico_ouvidoria.jpg, id=152, 1300.86pt x 1044.90375pt>
 File: imagens/fluxo_generico_ouvidoria.jpg Graphic file (type jpg)
 
 <use imagens/fluxo_generico_ouvidoria.jpg>
@@ -866,7 +946,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] <imagens/uso_smartphones_brasil.png, id=229, 347.79938pt x 249.93375pt>
+[16]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 68.
+ <imagens/uso_smartphones_brasil.png, id=248, 347.79938pt x 249.93375pt>
 File: imagens/uso_smartphones_brasil.png Graphic file (type png)
 
 <use imagens/uso_smartphones_brasil.png>
@@ -903,12 +986,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 55.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -916,14 +999,72 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20]
+[20] <imagens/diagrama_caso_de_uso_1.png, id=281, 383.18156pt x 321.45094pt>
+File: imagens/diagrama_caso_de_uso_1.png Graphic file (type png)
+
+<use imagens/diagrama_caso_de_uso_1.png>
+Package pdftex.def Info: imagens/diagrama_caso_de_uso_1.png used on input line 
+70.
+(pdftex.def)             Requested size: 455.24411pt x 381.92805pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21])
+[21] <imagens/diagrama_caso_de_uso_2.png, id=288, 380.17032pt x 308.65312pt>
+File: imagens/diagrama_caso_de_uso_2.png Graphic file (type png)
+
+<use imagens/diagrama_caso_de_uso_2.png>
+Package pdftex.def Info: imagens/diagrama_caso_de_uso_2.png used on input line 
+77.
+(pdftex.def)             Requested size: 455.24411pt x 369.61421pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./imagens/diagrama_caso_de_uso_1.png>]
+<imagens/diagrama_caso_de_uso_3.png, id=294, 398.23781pt x 304.13625pt>
+File: imagens/diagrama_caso_de_uso_3.png Graphic file (type png)
+
+<use imagens/diagrama_caso_de_uso_3.png>
+Package pdftex.def Info: imagens/diagrama_caso_de_uso_3.png used on input line 
+84.
+(pdftex.def)             Requested size: 455.24411pt x 347.68419pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23 <./imagens/diagrama_caso_de_uso_2.png>]
+<imagens/diagrama_classe_de_projeto.png, id=300, 480.29437pt x 374.14781pt>
+File: imagens/diagrama_classe_de_projeto.png Graphic file (type png)
+
+<use imagens/diagrama_classe_de_projeto.png>
+Package pdftex.def Info: imagens/diagrama_classe_de_projeto.png used on input l
+ine 91.
+(pdftex.def)             Requested size: 455.24411pt x 354.63913pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24 <./imagens/diagrama_caso_de_uso_3.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25 <./imagens/diagrama_classe_de_projeto.png>])
 \openout2 = `aplicativo.aux'.
 
  (aplicativo.tex
@@ -934,11 +1075,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22
+[26
 
 
 
-] <imagens/exemplo_cores.png, id=273, 1084.05pt x 1858.945pt>
+] <imagens/exemplo_cores.png, id=322, 1084.05pt x 1858.945pt>
 File: imagens/exemplo_cores.png Graphic file (type png)
 
 <use imagens/exemplo_cores.png>
@@ -951,7 +1092,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23] <imagens/tipos_mapa.jpeg, id=279, 963.6pt x 861.2175pt>
+[27] <imagens/tipos_mapa.jpeg, id=328, 963.6pt x 861.2175pt>
 File: imagens/tipos_mapa.jpeg Graphic file (type jpg)
 
 <use imagens/tipos_mapa.jpeg>
@@ -964,8 +1105,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24 <./imagens/exemplo_cores.png>]
-<imagens/exemplo_criacao.png, id=285, 815.29594pt x 1394.20876pt>
+[28 <./imagens/exemplo_cores.png>]
+<imagens/exemplo_criacao.png, id=333, 815.29594pt x 1394.20876pt>
 File: imagens/exemplo_criacao.png Graphic file (type png)
 
 <use imagens/exemplo_criacao.png>
@@ -978,21 +1119,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25 <./imagens/tipos_mapa.jpeg>]
+[29 <./imagens/tipos_mapa.jpeg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26 <./imagens/exemplo_criacao.png>]
+[30 <./imagens/exemplo_criacao.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27])
+[31])
 \openout2 = `consideracoesfinais.aux'.
 
  (consideracoesfinais.tex
@@ -1003,7 +1144,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28
+[32
 
 
 
@@ -1017,13 +1158,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29
+[33
 
 
 ])
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 206.
+(hyperref)                than one, level fixed on input line 209.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1031,12 +1172,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30]
+[34]
 \openout2 = `apendices.aux'.
 
  (apendices.tex
 Cap\'{\i }tulo 7.
-<imagens/print_questionario.png, id=316, 441.90094pt x 673.76718pt>
+<imagens/print_questionario.png, id=362, 441.90094pt x 673.76718pt>
 File: imagens/print_questionario.png Graphic file (type png)
 
 <use imagens/print_questionario.png>
@@ -1049,42 +1190,45 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31
+[35
 
 
  <./imagens/print_questionario.png>] 
 AED: lastpage setting LastPage
 
-Package caption Warning: Unused \captionsetup[table] on input line 157.
+Package caption Warning: Unused \captionsetup[table] on input line 159.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
-(ouvefacil.aux (capa.aux) (folhaderosto.aux) (folhaAprovacao.aux)
-(declaracaoautor.aux) (dedicatoria.aux) (epigrafe.aux) (resumo.aux)
-(abstract.aux) (listafiguras.aux) (sumario.aux) (introducao.aux) (objetivos.aux
-) (revisaoliteratura.aux) (metodologiapesquisa.aux) (aplicativo.aux)
-(consideracoesfinais.aux) (apendices.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
+(ouvefacil.aux (capa.aux) (folhaderosto.aux) (declaracaoautor.aux)
+(dedicatoria.aux) (epigrafe.aux) (resumo.aux) (abstract.aux) (listafiguras.aux)
+(sumario.aux) (introducao.aux) (objetivos.aux) (revisaoliteratura.aux)
+(metodologiapesquisa.aux) (aplicativo.aux) (consideracoesfinais.aux)
+(apendices.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
 Package rerunfilecheck Info: File `ouvefacil.out' has not changed.
-(rerunfilecheck)             Checksum: 4AF85905B77DB9AEC61ADE2419521ADB;939.
+(rerunfilecheck)             Checksum: 35429B9EC828BEEA3C8369731458027A;1014.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
  ) 
 Here is how much of TeX's memory you used:
- 12038 strings out of 493323
- 180123 string characters out of 3139060
- 327121 words of memory out of 3000000
- 14949 multiletter control sequences out of 15000+200000
- 38342 words of font info for 195 fonts, out of 3000000 for 9000
+ 12739 strings out of 493323
+ 191619 string characters out of 3139060
+ 341227 words of memory out of 3000000
+ 15596 multiletter control sequences out of 15000+200000
+ 42266 words of font info for 213 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,43p,1569b,573s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exi
+ 41i,18n,43p,1569b,570s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
 , replaced by a fixed one
@@ -1107,9 +1251,9 @@ onts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
 lvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ouvefacil.pdf (32 pages, 2526814 bytes).
+Output written on ouvefacil.pdf (36 pages, 2879146 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 26271 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 30415 words of extra memory for PDF output out of 35830 (max. 10000000)
 

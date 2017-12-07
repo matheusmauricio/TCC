@@ -31,7 +31,7 @@ Existem situações que afetam a vida do cidadão e que estão fora de seu alcance r
 
 Mesmo com esses e outros problemas afetando sua vida diária, geralmente não é comum os cidadãos denunciarem à ouvidoria pública\footnote[4]{Órgão da prefeitura municipal responsável por receber demandas de serviços criadas pelos cidadãos, e lhes dar um retorno da possibilidade ou não de correção do problema mencionado} pelo fato de não quererem \textquotedblleft perder\textquotedblright \space um tempo no telefone descrevendo o problema, onde ele ocorre, quando aconteceu, entre outras perguntas, ou pelo fato de não lembrarem do problema quando chegam em casa.
 
-Por quê usar somente os meios tradicionais, como telefone ou registrar a queixa presencialmente, quando se pode facilitar o processo e fazer uma rápida e informatizada forma de denúncia? Uma maneira de agilizar o processo de identificação do problema, é a criação de um aplicativo para \textit{smartphone} com sistema operacional Android que seja capaz de categorizar e descrever o problema a partir de uma fotografia, e marcá-lo em um mapa da cidade, resultando em uma nova demanda para a prefeitura municipal.
+Por quê usar somente os meios tradicionais, como telefone ou registrar a queixa presencialmente, quando se pode facilitar o processo e fazer uma rápida e informatizada forma de denúncia? Uma maneira de agilizar o processo de identificação do problema, é a criação de um aplicativo para \textit{smartphone} com sistema operacional \textit{Android} que seja capaz de categorizar e descrever o problema a partir de uma fotografia, e marcá-lo em um mapa da cidade, resultando em uma nova demanda para a prefeitura municipal.
 
 A metodologia para a elaboração do desenvolvimento deste aplicativo iniciou com uma pesquisa via questionário, na cidade de Cachoeiro de Itapemirim (ES), que visava, a princípio, responder:
 
@@ -47,20 +47,50 @@ A metodologia para a elaboração do desenvolvimento deste aplicativo iniciou com 
 
 Assim,  foram  aplicados  questionários  junto  à  população  para  que  houvesse   essa identificação, sendo que a resposta para a pergunta 4 só será possível após alguns meses de utilização do aplicativo.
 
-A partir da aplicação parcial do questionário supracitado (ver apêndice A), e também com a análise de recente pesquisa do \textit{Kantar World Panel}, vista na Figura 2, escolheu-se iniciar o desenvolvimento para aplicativos com sistemas operacionais Android, pois este representa, atualmente, 92,1\% dos sistemas operacionais utilizados pelos usuários de \textit{smartphone} do Brasil. A aplicação do questionário local trouxe 77,9\% de usuários Android.
-
-(Dúvida imagem)
+A partir da aplicação parcial do questionário supracitado (ver apêndice A), e também com a análise de recente pesquisa do \textit{Kantar World Panel}, vista na Figura 2, escolheu-se iniciar o desenvolvimento para aplicativos com sistemas operacionais \textit{Android}, pois este representa, atualmente, 92,1\% dos sistemas operacionais utilizados pelos usuários de \textit{smartphone} do Brasil. A aplicação do questionário local trouxe 77,9\% de usuários \textit{Android}.
 
 Para o desenvolvimento do aplicativo proposto, são necessárias a utilização de  algumas tecnologias. São elas:
 
 \begin{itemize}
-	\item IDE Android Studio: Software para desenvolvimento de aplicativos em linguagem de programação Java para Android.
+	\item IDE \textit{Android Studio}: Software para desenvolvimento de aplicativos em linguagem de programação Java para \textit{Android}.
 	\item Servidor Web: Repositório para armazenamento dos registros de demandas criadas para um servidor.
 	\item Banco de Dados MySql: Sistema de gerenciamento de banco de dados  (SGBD), que utiliza como interface a linguagem SQL (\textit{Structured Query Language}), ou Linguagem de Consulta Estruturada, em português.
 	\item Linguagem PHP: um acrônimo recursivo para \textquotedblleft \textit{PHP: Hypertext Preprocessor}\textquotedblright. É uma linguagem servidor gratuita e muito utilizada no mundo todo.
 	\item JSON: um acrônimo para \textquotedblleft \textit{JavaScript Object Notation}\textquotedblright. É um formato  de dados baseado em \textit{JavaScript}. O tráfego de dados para o Web-Service será formatado na linguagem JSON, e será recebido, traduzido e tratado através   da linguagem PHP.
 	\item Google Maps APIs: São conjuntos de instruções disponibilizadas pelo Google para que seja feita a interface de mapas e localização geográfica.
 \end{itemize}
+
+Além dessas tecnologias, foram desenvolvidos diagramas de caso de uso (para cada nível de acesso - que serão explicados no próximo capítulo), e um diagrama de classe de projeto. Todos os diagramas foram feitos utilizando a UML\footnote[5]{Unified Modeling Language - Linguagem de Modelagem Unificada}, que \textquotedblleft é uma linguagem de modelagem visual, ou seja, é um conjunto de notações e semântica correspondente para representar visualmente uma ou mais perspectivas de um sistema\textquotedblright. \cite{bezerra2017principios}
+
+Os diagramas de caso de uso são demonstrados nas figuras 3, 4 e 5, e o diagrama de classe de projeto é representado na figura 6.
+
+\begin{figure}[H]
+	\centering
+	\caption{Diagrama de Caso de Uso - Nível de Usuário}
+	\includegraphics[width=1\linewidth]{imagens/diagrama_caso_de_uso_1.png}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\caption{Diagrama de Caso de Uso - Nível de Ouvidor}
+	\includegraphics[width=1\linewidth]{imagens/diagrama_caso_de_uso_2.png}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\caption{Diagrama de Caso de Uso - Nível de Funcionário}
+	\includegraphics[width=1\linewidth]{imagens/diagrama_caso_de_uso_3.png}
+	\caption*{Fonte: Própria}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\caption{Diagrama de Classe de Projeto}
+	\includegraphics[width=1\linewidth]{imagens/diagrama_classe_de_projeto.png}
+	\caption*{Fonte: Própria}
+\end{figure}
 
 Para validar a aplicação, será necessário fazer uso de alguns testes na aplicação, para que ela possa funcionar da maneira adequada, e com a maior performance possível. Alguns serão feitos pelo desenvolvedor, e outros testes, por pessoas voluntárias da própria comunidade. Os testes serão em torno da tempestividade do aplicativo, a forma que o aplicativo e servidor irão se comportar em situações de tráfego de dados extremos, segurança e confidencialidade dos dados, e da capacidade de entregar informações completas.
 

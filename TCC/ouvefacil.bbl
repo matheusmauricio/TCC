@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Bezerra 2017]{bezerra2017principios}
+\abntrefinfo{Bezerra}{BEZERRA}{2017}
+{BEZERRA, E. \emph{Princ{\'\i}pios de An{\'a}lise e Projeto de Sistema com
+  UML}. [S.l.]: Elsevier Brasil, 2017. v.~3.}
+
 \bibitem[Brabham 2008]{brabham2008crowdsourcing}
 \abntrefinfo{Brabham}{BRABHAM}{2008}
 {BRABHAM, D.~C. Crowdsourcing as a model for problem solving an introduction
@@ -16,11 +21,6 @@
 \abntrefinfo{Cardoso}{CARDOSO}{2010}
 {CARDOSO, A. S.~R. Ouvidoria p{\'u}blica como instrumento de mudan{\c{c}}a.
 Instituto de Pesquisa Econ{\^o}mica Aplicada (Ipea), 2010.}
-
-\bibitem[Correa 2003]{correa2003probabilidade}
-\abntrefinfo{Correa}{CORREA}{2003}
-{CORREA, S. Probabilidade e estat{\'\i}stica.
-\emph{Belo Horizonte: PUC Minas Virtual}, v.~2, 2003.}
 
 \bibitem[Galoppini 2012]{galoppiniprojeto}
 \abntrefinfo{Galoppini}{GALOPPINI}{2012}
@@ -73,11 +73,6 @@ Tese (Doutorado), 2014.}
 \abntrefinfo{Moran}{MORAN}{2014}
 {MORAN, J. Autonomia e colabora{\c{c}}{\~a}o em um mundo digital.
 \emph{Revista Educatrix}, n.~7, p. 52--37, 2014.}
-
-\bibitem[Moresi et al. 2003]{moresi2003metodologia}
-\abntrefinfo{Moresi et al.}{MORESI et al.}{2003}
-{MORESI, E. et al. Metodologia da pesquisa.
-\emph{Universidade Cat{\'o}lica de Bras{\'\i}lia}, p.~21, 2003.}
 
 \bibitem[Neto et al. 2014]{neto2014desenvolvimento}
 \abntrefinfo{Neto et al.}{NETO et al.}{2014}
