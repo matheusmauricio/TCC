@@ -172,10 +172,12 @@
 \begin{document}
 \include{capa} % Inserir arquivo da capa
 \include{folhaderosto} % Inserir arquivo da folha de rosto
+\includepdf[pages=1]{fichacatalografica.pdf}
 %%\include{fichaCatalografica}
 \includepdf[pages=1]{folhadeaprovacao.pdf}
 %%\include{folhaAprovacao}
-\include{declaracaoautor} % Inserir arquivo da declaração do autor
+\includepdf[pages=1]{declaracaodoautor.pdf}
+%\include{declaracaoautor} % Inserir arquivo da declaração do autor
 \include{dedicatoria} % Inserir arquivo da dedicatoria do autor
 %\include{agradecimento} % Inserir arquivo do agradecimento do autor
 \include{epigrafe} % Inserir arquivo do epígrafe do autor
@@ -204,9 +206,10 @@
 \renewcommand{\bibname}{\hfil\normalfont\normalsize\bfseries\MakeUppercase\bf\normalsize REFERÊNCIAS} % Fazer o título REFERÊNCIAS ficar em MAIÚSCULO, centralizado, negrito e tamanho 12.
 %\bibliographystyle{unsrt} % A ordem das citações é de acordo com o aparecimento no texto.
 %\fancyhf{} % Retira o número de página nas referências
-\setcounter{page}{33} % Define qual é o número da página das REFERÊNCIAS. ESTE CAMPO DEVE SER MODIFICADO O SEU NÚMERO NO FINAL DO TRABALHO.
-\bibliography{bibliografias}
+\setcounter{page}{34} % Define qual é o número da página das REFERÊNCIAS. ESTE CAMPO DEVE SER MODIFICADO O SEU NÚMERO NO FINAL DO TRABALHO.
 \addcontentsline{toc}{subsubsection}{REFERÊNCIAS} % Colocar o título REFERÊNCIAS no SUMÁRIO
+\bibliography{bibliografias}
+
 \include{apendices}
 \end{document}
 
